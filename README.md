@@ -1,2 +1,2 @@
 # git_study
-tesuto
+tesuto2
